@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 💬 Ask me anything about [Bagisto E-Commerce](https://bagisto.eu)
+
+### Connect with me:
+
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4Mze7puxfCGX1dTfI_L8fA/)
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HermansGlenn)
+[<img align="left" alt="linked | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/glenn-hermans-a88b548b/)
 <!--
 **ghermans/ghermans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
