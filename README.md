@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 💬 Ask me anything about [Bagisto E-Commerce](https://bagisto.eu)
+- 💬 You can ask me anything about [Bagisto E-Commerce](https://bagisto.eu)
+- 🔭 During my free time i am also working on [FiveM](https://fivem.net) scripts ...
 
-### Connect with me:
+### You can follow me at:
 
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4Mze7puxfCGX1dTfI_L8fA/)
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HermansGlenn)
